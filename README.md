@@ -1,6 +1,6 @@
 # Crawling
 
-[🔍]Google Search : 구글 검색
+[🔍](https://github.com/mizykk/Crawling/blob/main/Google_Search.ipynb)Google Search : 구글 검색
 
 ---  
 ### 🪐 Selenium 🪐  
